@@ -1,0 +1,8 @@
+.App {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: url("./images/aurora-img.jpg") no-repeat center center;
+}
